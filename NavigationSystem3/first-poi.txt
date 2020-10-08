@@ -1,0 +1,4 @@
+GASSTAION;Berlin;BERLIN shop;21;10
+RESTAURANT;dio;DIO roadroller;1;10
+RESTAURANT;mensa;MENSA cafe;10;10
+RESTAURANT;sitte;SITTE restaurant;15;1
